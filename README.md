@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Sohil Khan</h1>
+<h1 align="center">Hi 👋, I'm Sonu Singh Bisht</h1>
 <h3 align="center">Software Developer and Engineer | DevOps Enthusiast</h3>
 
 - 🌱 I’m currently learning **AI/ML and Full Stack Development.**  
 - 👯 I’m looking to collaborate on **open-source projects and DevOps tools.**  
 - 📫 Reach me at  "sonubist02@gmail.com"  
 - 📫 Visit on my Linkedin Profile " https://www.linkedin.com/in/sonu-singh-bisht-b9116b260/"  
-- 📄 Download  my <a href="https://github.com/sohil-khann/sohil-khann/raw/main/Sohil%20khan.pdf">Resume </a>
+- 📄 Download  my <a href=" sonu.pdf">Resume </a>
 <br>
-- 📄 Check my <a href="./Sohil khan.pdf"> Resume</a>
+- 📄 Check my <a href="./sonu.pdf"> Resume</a>
 <hr>
 ### 🔗 Connect with me:
 <div align="left" style="display:flex; justify-content:space-around;">
@@ -38,14 +38,6 @@
 <hr>
 ## 🚀 Projects:
 
----
-
-### MoniTrol (Aug 2025)
-- A Modern Full Stack event monitoring SaaS.  
-- Built with Next.js App Router, PostgreSQL, TypeScript, Tailwind CSS & Clerk.  
-- Integrated APIs to enhance functionality and data flow between services.
-
----
 
 ### Crowd Wave (Sep 2024 - Dec 2024)
 - Developed Android application to manage events, ticket bookings, and attendee management.  
